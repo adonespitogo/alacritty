@@ -1,0 +1,11 @@
+[shell]
+program = 'wsl ~'
+
+[keyboard]
+bindings = [
+	{key = "Space", mods = "Control", chars = "\u0000"},
+]
+
+[font]
+normal = { family = "Hack Nerd Font Mono" }
+size = 12
