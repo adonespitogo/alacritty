@@ -9,3 +9,8 @@ bindings = [
 [font]
 normal = { family = "Hack Nerd Font Mono" }
 size = 12
+
+[keyboard]
+bindings = [
+  { key = "Enter", mods = "Control", action = "CreateNewWindow" }
+]
